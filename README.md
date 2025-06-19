@@ -243,4 +243,6 @@ document.addEventListener("DOMContentLoaded", function () {
         totalTexto.textContent = "Total de la compra: $" + total.toFixed(2);
     }
 });
+https://github.com/angeleltudopi/Tienda-en-linea/blob/main/image1.jpg
+
 
