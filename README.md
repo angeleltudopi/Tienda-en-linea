@@ -247,5 +247,6 @@ https://github.com/angeleltudopi/Tienda-en-linea/blob/main/image1.jpg
 https://github.com/angeleltudopi/Tienda-en-linea/blob/main/image2.jpg
 https://github.com/angeleltudopi/Tienda-en-linea/blob/main/image3.jpg
 https://github.com/angeleltudopi/Tienda-en-linea/blob/main/image4.jpg
+https://github.com/angeleltudopi/Tienda-en-linea/blob/main/image5.jpg
 
 
