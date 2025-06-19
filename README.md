@@ -243,3 +243,4 @@ document.addEventListener("DOMContentLoaded", function () {
         totalTexto.textContent = "Total de la compra: $" + total.toFixed(2);
     }
 });
+
